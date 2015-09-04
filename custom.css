@@ -1,0 +1,30 @@
+        .btn{
+    margin: 20px;
+}
+
+.smiley{
+    width: 200px;
+    height: 200px;
+}
+.container{
+    max-width: 1000px;
+
+}
+.happyornot{
+    top: 50%;
+    margin: -150px 0 0 0;
+    position: absolute;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 200px;
+
+}
+.credits{
+    bottom: 10px;
+    position: absolute;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 20px;
+    text-align: center;
+    color: grey;
+}

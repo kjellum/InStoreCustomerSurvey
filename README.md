@@ -1,5 +1,5 @@
 # InStoreCustomerSurvey
-In store customer survey webapp. Track customer happynes in Google Analytics
+In store customer survey webapp. Track customer feedback in Google Analytics
 
 Demo: http://devel.hettykjellum.no/happyornot/
 
